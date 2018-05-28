@@ -3,5 +3,5 @@ En este kernel encontraréis un análisis básico de los datos que conforman el 
 
 ### Content:
 
-1. Jupyter Kernel to work w/ the dataset (*diabetes.ipynb*)
-2. Diabetes Dataset used in the kernel (*diabetes.csv*)
+1. El kernel de Jupyter (*diabetes.ipynb*)
+2. El dataset usado en el kernel (*diabetes.csv*)
